@@ -1,0 +1,13 @@
+c:\users\jeff\documents\visual studio 2013\Projects\Attractor\Attractor\bin\Debug\Attractor.exe.config
+c:\users\jeff\documents\visual studio 2013\Projects\Attractor\Attractor\obj\Debug\Attractor.csprojResolveAssemblyReference.cache
+c:\users\jeff\documents\visual studio 2013\Projects\Attractor\Attractor\obj\Debug\App.g.cs
+c:\users\jeff\documents\visual studio 2013\Projects\Attractor\Attractor\obj\Debug\Attractor_MarkupCompile.cache
+c:\users\jeff\documents\visual studio 2013\Projects\Attractor\Attractor\bin\Debug\Attractor.exe
+c:\users\jeff\documents\visual studio 2013\Projects\Attractor\Attractor\bin\Debug\Attractor.pdb
+c:\users\jeff\documents\visual studio 2013\Projects\Attractor\Attractor\obj\Debug\MainWindow.baml
+c:\users\jeff\documents\visual studio 2013\Projects\Attractor\Attractor\obj\Debug\MainWindow.g.cs
+c:\users\jeff\documents\visual studio 2013\Projects\Attractor\Attractor\obj\Debug\Attractor.g.resources
+c:\users\jeff\documents\visual studio 2013\Projects\Attractor\Attractor\obj\Debug\Attractor.Properties.Resources.resources
+c:\users\jeff\documents\visual studio 2013\Projects\Attractor\Attractor\obj\Debug\Attractor.csproj.GenerateResource.Cache
+c:\users\jeff\documents\visual studio 2013\Projects\Attractor\Attractor\obj\Debug\Attractor.exe
+c:\users\jeff\documents\visual studio 2013\Projects\Attractor\Attractor\obj\Debug\Attractor.pdb
